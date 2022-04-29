@@ -4,8 +4,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![Josue GitHub stats](https://github-readme-stats.vercel.app/api?username=jmessiasweb&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmessiasweb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Josue GitHub stats](https://github.com/jmessiasweb/api?username=jmessiasweb&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github.com/jmessiasweb/api/top-langs/?username=jmessiasweb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 

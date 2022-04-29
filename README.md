@@ -4,8 +4,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![Josue GitHub stats](https://github.com/jmessiasweb/api?username=jmessiasweb&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github.com/jmessiasweb/api/top-langs/?username=jmessiasweb&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmessiasweb&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmessiasweb&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,8 +16,4 @@
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="Postgressql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
- 
-</div><br/>
-
-Apaixonado por tecnologia, a programação  muda a vida das pessoas.
 
